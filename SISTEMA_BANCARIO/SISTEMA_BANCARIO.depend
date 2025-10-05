@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\bola3\documents\nova pasta\sistema_bancario\main.cpp
+	<iostream>
+
+1759642055 source:c:\users\bola3\documents\nova pasta\sistema_bancario\src\cliente.cpp
+	"Cliente.h"
+
+1759642055 c:\users\bola3\documents\nova pasta\sistema_bancario\include\cliente.h
+	<string>
+
+1759642055 source:c:\users\bola3\documents\nova pasta\sistema_bancario\src\contabancaria.cpp
+	"ContaBancaria.h"
+
+1759642121 c:\users\bola3\documents\nova pasta\sistema_bancario\include\contabancaria.h
+	<iostream>
+	"Cliente.h"
+
